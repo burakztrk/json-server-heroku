@@ -1,4 +1,22 @@
 {
+  "users":[
+    {
+      "id":0,
+      "username" : "burak",
+      "pass" : "12345"
+    },
+    {
+      "id":1,
+      "username" : "mete",
+      "pass" : "12345"
+    },
+    {
+      "id":2,
+      "username" : "damla",
+      "pass" : "12345"
+    }
+  ],
+
   "posts":[
     {
       "id" : 0,
