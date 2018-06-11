@@ -1,0 +1,39 @@
+{
+  "users":[
+    {
+      "id":0,
+      "username" : "burak",
+      "pass" : "12345"
+    },
+    {
+      "id":1,
+      "username" : "mete",
+      "pass" : "12345"
+    },
+    {
+      "id":2,
+      "username" : "damla",
+      "pass" : "12345"
+    }
+  ],
+
+  "posts":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
+    },
+    {
+      "id" : 1,
+      "title": "Second post!",
+      "content" : "My second content!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
+}
