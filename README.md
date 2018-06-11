@@ -1,5 +1,7 @@
 # Deploy `json-server` to `{{ free hosting site }}`
 
+[DEMO](https://restfullapi2.herokuapp.com/)
+
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
 <img src="https://raw.githubusercontent.com/typicode/json-server/master/src/server/public/images/json.png" align="right">
