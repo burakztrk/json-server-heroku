@@ -146,6 +146,10 @@
       "departure": "Kadıköy",
       "arrival": "Eminönü"
     },
-    {"id":1}
+    {
+      "id": 1,
+      "departure": "Eminönü",
+      "arrival": "Kadıköy"
+    }
   ]
 }
