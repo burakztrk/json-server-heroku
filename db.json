@@ -1,0 +1,298 @@
+{
+  "times": [
+    {
+      "id": 100,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "07:00"
+    },
+    {
+      "id": 101,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "07:20"
+    },
+    {
+      "id": 102,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "07:40"
+    },
+    {
+      "id": 103,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "08:00"
+    },
+    {
+      "id": 104,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "08:20"
+    },
+    {
+      "id": 105,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "08:40"
+    },
+    {
+      "id": 106,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "09:00"
+    },
+    {
+      "id": 107,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "09:20"
+    },
+    {
+      "id": 108,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "09:40"
+    },
+    {
+      "id": 109,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "10:00"
+    },
+    {
+      "id": 110,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "10:20"
+    },
+    {
+      "id": 111,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "10:40"
+    },
+    {
+      "id": 112,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "11:00"
+    },
+    {
+      "id": 113,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "11:20"
+    },
+    {
+      "id": 114,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "11:40"
+    },
+    {
+      "id": 115,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "12:00"
+    },
+    {
+      "id": 116,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "12:20"
+    },
+    {
+      "id": 117,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "12:40"
+    },
+    {
+      "id": 118,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "13:00"
+    },
+    {
+      "id": 119,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "13:20"
+    },
+    {
+      "id": 120,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "13:40"
+    },
+    {
+      "id": 121,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "14:00"
+    },
+    {
+      "id": 122,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "14:20"
+    },
+    {
+      "id": 123,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "14:40"
+    },
+    {
+      "id": 124,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "15:00"
+    },
+    {
+      "id": 125,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "15:20"
+    },
+    {
+      "id": 126,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "15:40"
+    },
+    {
+      "id": 127,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "16:00"
+    },
+    {
+      "id": 128,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "16:20"
+    },
+    {
+      "id": 129,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "16:40"
+    },
+    {
+      "id": 130,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "17:00"
+    },
+    {
+      "id": 131,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "17:20"
+    },
+    {
+      "id": 132,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "17:40"
+    },
+    {
+      "id": 133,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "18.00"
+    },
+    {
+      "id": 134,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "18:20"
+    },
+    {
+      "id": 135,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "18:40"
+    },
+    {
+      "id": 136,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "19:00"
+    },
+    {
+      "id": 137,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "19:20"
+    },
+    {
+      "id": 138,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "19:40"
+    },
+    {
+      "id": 139,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "20:00"
+    },
+    {
+      "id": 140,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "20:20"
+    },
+    {
+      "id": 141,
+      "departure": "Kadıköy",
+      "arrival": "Eminönü",
+      "daycode": "working",
+      "time": "20:40"
+    }
+  ]
+}
